@@ -30,11 +30,13 @@ The analysis includes:
 
 ## Repository Structure
 
+```
 warehouse-stock-analysis
 │
 ├── warehouse_stock_analysis_github.ipynb
 ├── README.md
 ├── requirements.txt
 └── data/
+```
 
 Note: The original dataset used in this analysis is not included in the repository.
